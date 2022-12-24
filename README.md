@@ -1,2 +1,2 @@
 # tictactoe
-Link:
+Link:https://javascripttictactoe.netlify.app/
